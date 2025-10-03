@@ -41,7 +41,7 @@ pip install opencv-python numpy
 3. Run the script:
 
 ```bash
-python face_recognition.py
+python main.py
 ```
 4. A window will open showing the webcam feed.
 5. Detected faces will be recognized and labeled.
